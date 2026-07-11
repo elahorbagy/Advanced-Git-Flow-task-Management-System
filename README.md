@@ -1,4 +1,4 @@
-**Advanced Git Flow & Release Management System** 🚀
+**Advanced Git Flow & Release Management System** 
 
 A practical implementation of the Git Flow branching model, demonstrating real-world software development workflows using Main, Develop, Feature, and Release branches. The project showcases feature integration, non-fast-forward merges (`--no-ff`), release versioning with Git tags, and structured repository management practices.
 
