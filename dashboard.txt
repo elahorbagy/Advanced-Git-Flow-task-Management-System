@@ -1,6 +1,8 @@
 
 Features:
+
 Create dashboard module
+Add search functionality
 - Display tasks
 - Show statistics
 - Search tasks
