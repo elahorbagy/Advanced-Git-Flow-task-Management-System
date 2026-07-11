@@ -3,3 +3,4 @@ Features:
 - User Login
 - Password Validation
 Create authentication module
+Add task statistics
