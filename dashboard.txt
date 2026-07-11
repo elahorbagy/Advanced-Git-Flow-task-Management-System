@@ -1,0 +1,4 @@
+Features:
+- Display tasks
+- Show statistics
+- Search tasks
